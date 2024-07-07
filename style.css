@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(4 * 48px);
+}
+.grid img {
+  width: 48px;
+}
+.btn {
+  margin: 1em 0;
+}
